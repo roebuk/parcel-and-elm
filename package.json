@@ -1,0 +1,16 @@
+{
+  "name": "elm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "node-elm-compiler": "^5.0.1"
+  },
+  "dependencies": {
+    "parcel": "^1.10.0"
+  }
+}
