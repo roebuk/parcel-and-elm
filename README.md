@@ -1,5 +1,7 @@
 # Getting up and running with Parcel & Elm
 
+As of v1.10.0, Parcel ships with Elm support straight outo of the box. If you've never used Parcel, here's how to get started. 
+
 Initialise a new project and install parcel as a local dependency.
 
     $ yarn init
