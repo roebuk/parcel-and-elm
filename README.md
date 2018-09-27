@@ -25,9 +25,10 @@ Inside this JS file we will import out Elm code which is also stored within the 
 ### Developing
 
 Parcel ships with it's own web server that is enabled when we run `parcel index.html`. Because
-Parcel is installed locally, we can access the local binary by adding this command into our
-`scripts` section of our `package.json` file. Now when we run this script with `$ yarn start` we
-are able to access the running app via [http://localhost:1234](http://localhost:1234)
+Parcel is installed locally, we can access the local binary by adding a `start` command to our
+`scripts` section of our `package.json` file. Now when we run `parcel index.html` with 
+`$ yarn start` we are able to access the running app via
+[http://localhost:1234](http://localhost:1234)
 
 ### Productioning
 
